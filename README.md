@@ -8,11 +8,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3F3D56&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Node.js+Backend+Pro;React+Native+Mobile+App+Expert;Founder+%7C+ElbonTech+%7C+FriendzoneTV;Building+AppDevPro+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ElbonTech&show_icons=true&theme=github_dark" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElbonTech&theme=github-dark-blue" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElbonTech&layout=compact&theme=github_dark" alt="Top Languages" /> </p>
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building: **Ekiete App, AppDevPro, and a Forex Signals App**
+
 - 🌱 Learning: **TypeScript, Next.js, AI integrations with OpenAI**
 - 👯 Open to collaborate on: **Node.js APIs, SaaS platforms, mobile fintech, or e-health**
 - 💬 Ask me about: **Firebase, Expo, Agora, AI chatbots, mobile design systems**
@@ -27,17 +30,4 @@
 Node.js | Express.js | React Native | TypeScript | Expo | Firebase | MongoDB
 Git | GitHub | Docker | Agora | OpenAI API | Python (ML) | VS Code | Figma
 
-<!--
-**ElbonTech/ElbonTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
